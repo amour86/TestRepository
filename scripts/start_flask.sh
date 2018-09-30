@@ -1,1 +1,1 @@
-python /web/web.py
+python /web/web.py &
