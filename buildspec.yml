@@ -19,5 +19,5 @@ artifacts:
     - templates/layout.html
     - templates/test.html
     - scripts/mkdir.sh
-    - scripts/start_sh
-    - scripts/stop_sh
+    - scripts/start_flask.sh
+    - scripts/stop_flask.sh
