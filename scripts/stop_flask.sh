@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/local/bin/python
 import requests
 
 requests.post("http://127.0.0.1/shutdown")
